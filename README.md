@@ -1,6 +1,6 @@
 # baloipro-petroleum-engineering
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&left_color=%231d5101&right_color=%231ab517)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=petrotopic.baloipro-petroleum-engineering&left_text=visitors&left_color=%231d5101&right_color=%231ab517)
 
 🚀 Baloipro – Petroleum Engineering Automation
 
